@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo(a):
-    number = a * 5
+def echo(a, b):
+    number = a * b
     return number
