@@ -1,3 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
 def echo(a):
-    return "a " * 5
+    number = a * 5
+    return number
